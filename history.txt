@@ -1,0 +1,27 @@
+   65  git clone https://github.com/zhujh2015/MyBlogNode.git
+   66  git init
+   67  cd MyBlogNode
+   68  git int
+   69  git init
+   70  git clone https://github.com/zhujh2015/MyBlogNode.git
+   71  git add app.js
+   72  git commit -m 'test'
+   73  git status
+   74  git push https://github.com/zhujh2015/MyBlogNode.git
+   75  git pull https://github.com/zhujh2015/MyBlogNode.git
+   76  git push https://github.com/zhujh2015/MyBlogNode.git
+   77  git add bin
+   78  git add models
+   79  git add public
+   80  git add routes
+   81  git add views
+   82  git add express_demo.js
+   83  git add package.json
+   84  git add   settings.js
+   85  git status
+   86  git commit -a -m 'first commit'
+   87  git push https://github.com/zhujh2015/MyBlogNode.git
+   88  git history
+   89  git --help
+   90  git log
+   91  history > history.txt
